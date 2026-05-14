@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+joblib
+pymongo
+python-jose
+passlib
+bcrypt
+python-multipart
+pytesseract
+pillow
+opencv-python
+easyocr

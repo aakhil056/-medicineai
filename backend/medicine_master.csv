@@ -1,0 +1,13 @@
+medicine_name,usage,side_effects,dosage,price,generic_name,warnings,manufacturer
+Paracetamol,Fever,Nausea,500mg,20,Acetaminophen,Liver damage overdose,Cipla
+Ibuprofen,Pain,Stomach upset,400mg,35,Ibuprofen,Ulcer risk,Sun Pharma
+Metformin,Diabetes,Nausea,500mg,120,Metformin,Lactic acidosis,USV
+Amoxicillin,Bacterial Infection,Rash,250mg,80,Amoxicillin,Allergic reaction,Pfizer
+Aspirin,Heart Disease,Bleeding,75mg,40,Aspirin,Bleeding risk,Bayer
+Azithromycin,Infection,Diarrhea,250mg,120,Azithromycin,Allergic reaction,Pfizer
+Cetirizine,Allergy,Drowsiness,10mg,25,Cetirizine,Dizziness,Dr Reddy
+Omeprazole,Acidity,Headache,20mg,60,Omeprazole,Bone fracture risk,Cipla
+Salbutamol,Asthma,Tremor,2mg,90,Salbutamol,Heart palpitations,GSK
+Insulin,Diabetes,Hypoglycemia,10 units,500,Insulin,Low blood sugar,Novo Nordisk
+Sertraline,Depression,Insomnia,50mg,150,Sertraline,Suicidal thoughts,Pfizer
+Hydrocortisone,Eczema,Skin thinning,1%,45,Hydrocortisone,Skin thinning,Cipla
